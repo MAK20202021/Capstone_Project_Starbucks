@@ -17,9 +17,9 @@ This project needs Anaconda package(Anaconda3), Jupyter Notebook (6.1.4)
 
 ## File Description
 The sequence of data and source codes are as follows:
-- Data/portfolio.json
-- Data/profile.json
-- Data/transcript.json
+- data/portfolio.json
+- data/profile.json
+- data/transcript.json
 - Capstone_Project_Starbucks.html
 - Capstone_Project_Starbucks.ipynb
 
