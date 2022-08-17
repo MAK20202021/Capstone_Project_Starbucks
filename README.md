@@ -11,7 +11,7 @@ This project follows the following guidances:
 - Evaluating the model
 
 ## Acknowledgement
-This project is for Udacity Nanodegree Program (https://www.udacity.com/course/data-scientist-nanodegree--nd025). Thanks to Udacity for arranging this project and thanks to Starbucks for providing datasets.
+This project is for [Udacity Nanodegree Program](https://www.udacity.com/course/data-scientist-nanodegree--nd025). Thanks to Udacity for arranging this project and thanks to Starbucks for providing datasets.
 ## Installation
 This project needs Anaconda package(Anaconda3), Jupyter Notebook (6.1.4)
 
