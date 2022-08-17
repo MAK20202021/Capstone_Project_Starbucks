@@ -24,4 +24,5 @@ The sequence of data and source codes are as follows:
 - Capstone_Project_Starbucks.ipynb
 
 ## Discussion
-After completing this project, I understand how we can process data and build an end to end machine learning model and evaluate the model. Here is the link for my blog related to this project - https://medium.com/@makhan4/how-do-you-know-about-the-customer-transaction-behavior-depending-upon-their-demographic-data-1456dfe4d666
+After completing this project, I understand how we can process data and build an end to end machine learning model and evaluate the model. Here is the [link](https://medium.com/@makhan4/how-do-you-know-about-the-customer-transaction-behavior-depending-upon-their-demographic-data-1456dfe4d666
+) for my blog related to this project.
